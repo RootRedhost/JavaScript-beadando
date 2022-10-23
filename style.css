@@ -1,0 +1,47 @@
+#title {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: grey;
+}
+
+#game {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#game a {
+    background-color: aqua;
+    padding: 1rem;
+}
+
+#game-container {
+    color: black;
+    text-align:center;
+    text-transform: uppercase;
+    margin-bottom: 2.5rem;
+}
+
+#game-container button {
+    padding: 1.5rem;
+    margin: 3rem;
+    border-radius: 30px;
+    width: 100px;
+}
+
+#game-container a {
+    font-size: 1.5rem;
+    background-color: aqua;
+    margin: 3rem;
+}
+
+
+#his p {
+    font-size: 1.5rem;
+    text-align: right;
+    margin: 1px;
+}
