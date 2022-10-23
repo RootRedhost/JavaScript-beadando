@@ -17,6 +17,7 @@ let lose = 0;
 let draw = 0;
 let name2= [];
 
+
 btns.forEach((btn) =>{
     btn.addEventListener('click',(e) =>{
         const styles = e.currentTarget.classList;
