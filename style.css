@@ -14,11 +14,6 @@ body {
     text-transform: uppercase;
 }
 
-#game a {
-    background-color: navy;
-    padding: 1rem;
-}
-
 #game-container {
     color: black;
     text-align:center;
@@ -35,7 +30,7 @@ body {
 
 #game-container a {
     font-size: 1.5rem;
-    background-color: aqua;
+    background-color: navy;
     margin: 3rem;
 }
 
